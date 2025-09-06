@@ -15,6 +15,7 @@ import {
   BarChart3,
   Cloud,
   Wrench,
+  Workflow,
   Layers,
   Database,
   PlugZap,
